@@ -1,0 +1,56 @@
+body {
+background-color: #0d3d42;
+}
+
+.title {
+background-color: #007686;
+color: rgb(195, 248, 230);
+height: 100px;
+text-align: center;
+margin: 1px;
+padding: 20px;
+border-style: solid; 
+border-color: antiquewhite;
+}
+
+.sobre{
+    background-color: #008080;
+    flex-direction: column;
+    color: antiquewhite;
+    border-color: antiquewhite;
+    border-style: solid;
+    margin: 1px;
+    padding: 10px;    
+}
+
+.palestra{
+    background-color: #008080;
+    flex-direction: column;
+    color: whitesmoke;
+    border-color: antiquewhite;
+    border-style: solid;
+    margin: 1px;
+    padding: 10px;
+}
+
+
+.informacao{
+    background-color: #008080;
+    flex-direction: column;
+    color: whitesmoke;
+    border-color: antiquewhite;
+    border-style: solid;
+    margin: 1px;
+    padding: 10px;
+}
+
+
+.rodape {
+    background-color: #008080;
+    flex-direction: column;
+    color: antiquewhite;
+    border-color: antiquewhite;
+    border-style: solid;
+    margin: 1px;
+    padding: 10px;
+}

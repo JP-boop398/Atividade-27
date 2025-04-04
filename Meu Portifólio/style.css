@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(5,5,59);
+}
+
+.title{
+background-color: rgb(7, 76, 155);
+color: white;
+height: 100px;
+border: 3px;
+margin: 19px;
+height: 10%;
+padding: 1px;
+border-style: solid;
+border-color: white;
+font-size: xx-large;
+flex-direction: column-reverse;
+}
+
+.perfil{
+position: absolute;
+left: 18%;
+background-color: white;
+color: rgb(22, 22, 131);
+width: 60%;
+margin: 1px;
+padding: 35px;
+border-style: solid;
+border-color: white;
+flex-direction: column;
+}
+
+
+.txt:hover{
+    background-color: rgb(22, 22, 131);
+    color: honeydew;
+    font-size: x-large;
+}
+
+.name{
+font-size: xx-large;
+}
+
+.txt2{
+color: rgb(49, 49, 49);
+}
+
+.txt3{
+color: rgb(49, 49, 49);
+}
+
+img{
+    width: 400px;
+    height: 396px;
+}
+
+img, p {
+display: inline-block;
+}
+
+.txt4:hover{
+    font-size: x-large;
+    color: honeydew;
+    background-color: rgb(22, 22, 131);
+}
+
+
+.img2{
+    position: absolute;
+    right: 9px;
+}
+
+.txt5{
+    color: rgb(49, 49, 49);
+}
+
+
+.txt6:hover{
+    font-size: x-large
+    
+}
+
+
+.txt7{
+ color: rgb(49, 49, 49);   
+}
+
+.txt8:hover{
+    font-size: x-large;
+    color: honeydew;
+    background-color: rgb(22, 22, 131);
+}
+
+
+.txt9{
+    color: rgb(49, 49, 49);
+}
+
+
+.txt10:hover{
+    font-size: x-large;
+    color: honeydew;
+    background-color: rgb(22, 22, 131);
+}
+
+
+.txt11{
+    color: rgb(49, 49, 49);
+}
+
+.txt12:hover{
+    font-size: x-large
+}
+
+
